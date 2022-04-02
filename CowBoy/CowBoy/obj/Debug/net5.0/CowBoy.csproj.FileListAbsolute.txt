@@ -1,0 +1,16 @@
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\bin\Debug\net5.0\CowBoy.exe
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\bin\Debug\net5.0\CowBoy.deps.json
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\bin\Debug\net5.0\CowBoy.runtimeconfig.json
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\bin\Debug\net5.0\CowBoy.runtimeconfig.dev.json
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\bin\Debug\net5.0\CowBoy.dll
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\bin\Debug\net5.0\ref\CowBoy.dll
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\bin\Debug\net5.0\CowBoy.pdb
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\obj\Debug\net5.0\CowBoy.csproj.AssemblyReference.cache
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\obj\Debug\net5.0\CowBoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\obj\Debug\net5.0\CowBoy.AssemblyInfoInputs.cache
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\obj\Debug\net5.0\CowBoy.AssemblyInfo.cs
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\obj\Debug\net5.0\CowBoy.csproj.CoreCompileInputs.cache
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\obj\Debug\net5.0\CowBoy.dll
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\obj\Debug\net5.0\ref\CowBoy.dll
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\obj\Debug\net5.0\CowBoy.pdb
+C:\Users\flori\Desktop\CNAM\AdvancedProg\cowboy\CowBoy\CowBoy\obj\Debug\net5.0\CowBoy.genruntimeconfig.cache
